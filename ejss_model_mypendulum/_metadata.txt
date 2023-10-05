@@ -1,0 +1,16 @@
+generated-with: Easy Java/Javascript Simulations, version 5.3, build 180211. Visit http://www.um.es/fem/Ejs
+title: 
+logo-image: 
+author: Author name
+copyright: 
+preferred-width: 800
+preferred-height: 600
+author-image: 
+source: myPendulum3.ejss
+main-script: 
+main-simulation: myPendulum3_Simulation.xhtml
+available-languages: 
+html-contents: myPendulum3_Contents.xhtml
+html-main: myPendulum3.xhtml
+page-title: Simulation
+page-index: myPendulum3_Simulation.xhtml

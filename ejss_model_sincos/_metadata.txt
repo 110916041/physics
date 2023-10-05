@@ -1,0 +1,17 @@
+generated-with: Easy Java/Javascript Simulations, version 6.0, build 191124. Visit http://www.um.es/fem/Ejs
+title: gary
+logo-image: 
+author: gary
+copyright: 
+preferred-width: 800
+preferred-height: 600
+author-image: 
+source: homework.ejss
+main-script: 
+main-simulation: homework_Simulation.xhtml
+available-languages: 
+html-contents: homework_Contents.xhtml
+html-main: homework.xhtml
+page-title: gary
+page-index: homework_Simulation.xhtml
+resource: 1_5s_to_3_5s_你要不要吃哈密瓜_全字幕版_.mp3

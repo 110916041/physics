@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+<ModulePrefs
+title="myMCK"
+author="Author name"
+description=""
+screenshot=""
+thumbnail="">
+<Require feature="opensocial-0.9"/>
+<Require feature="dynamic-height"/>
+</ModulePrefs>
+<Content type="html" href="myMCK_Simulation.xhtml"/>
+</Module>
