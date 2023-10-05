@@ -1,0 +1,16 @@
+generated-with: Easy Java/Javascript Simulations, version 6.0, build 191124. Visit http://www.um.es/fem/Ejs
+title: 
+logo-image: 
+author: Author name
+copyright: 
+preferred-width: 800
+preferred-height: 600
+author-image: 
+source: gravity_assist.ejss
+main-script: 
+main-simulation: gravity_assist_Simulation.xhtml
+available-languages: 
+html-contents: gravity_assist_Contents.xhtml
+html-main: gravity_assist.xhtml
+page-title: Simulation
+page-index: gravity_assist_Simulation.xhtml

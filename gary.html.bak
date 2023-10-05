@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>gary2</title>
+    <link rel="stylesheet" href="test1.css" type="text/css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" type="text/css">
+    <link rel="stylesheet" href="test2.css" type="text/css">
+  </head>
+  <body>
+    <h1>許証曜(gary)</h1>
+    <table style="width: 100%;" border="1">
+      <tbody>
+        <tr>
+          <td>109/9/11</td>
+          <td><span style="color:darkblue;">講解遊戲規則</span></td>
+        </tr>
+        <tr>
+          <td style="height: 26.5px;">109/9/18</td>
+          <td><span style="color:darkblue;">知識管理</span></td>
+        </tr>
+        <tr>
+          <td>109/9/25</td>
+          <td><span style="color:darkblue;">EJSS First example (<a href="ejss_model_MassAndSpring/MassAndSpring.xhtml"
+                target="_blank">simulation</a>) </span></td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p><br>
+    </p>
+  </body>
+</html>
