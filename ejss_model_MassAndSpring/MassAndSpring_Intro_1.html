@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <title> Introduction</title>
+    <link rel="stylesheet" type="text/css" href="_ejs_library/css/ejss.css"></link>
+  </head>
+  <body > 
+
+    <h2>
+      Mass and Spring system
+    </h2>
+    <table>
+      <tr>
+        <td>
+          <p>
+            This is the simulation of the motion of a mass <i>m</i> situated 
+            at the end of a spring of length <i>l</i> and negligible mass. The 
+            motion is restricted to the horizontal dimension. (We choose a 
+            coordinate system in the plane with origin at the fixed end of the 
+            spring and with the X axis along the direction of the spring).
+          </p>
+        </td>
+        <td width="120">
+          <img src="./MassAndSpring/MassAndSpring.gif"/>
+          
+        </td>
+      </tr>
+    </table>
+    <p>
+      We assume that the reaction of the spring to a displacement <i>dx</i> 
+      from the equilibrium point can be modeled using Hooke's Law, <i>F(dx) = 
+      -k dx </i>, where <i>k</i> is a constant which depends on the physical 
+      characteristics of the spring. Thus, applying Newton's Second Law, we 
+      obtain the following second-order ordinary differential equation:
+    </p>
+    <div align="center">
+      <i>d<sup>2</sup>x / dt<sub><sup>2</sup></sub> = -k/m (x-l)</i>,
+    </div>
+    <p>
+      where <i>x</i> is the horizontal position of the free end of the spring.
+    </p>
+    <p>
+      In the simulation we solve numerically this equation and visualize the 
+      results.
+    </p>
+  
+  </body>
+</html>

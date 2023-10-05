@@ -1,0 +1,27 @@
+generated-with: Easy Java/Javascript Simulations, version 6.0, build 191124. Visit http://www.um.es/fem/Ejs
+title: Mass and Spring
+logo-image: MassAndSpring/MassAndSpring.png
+author: Francisco Esquembre
+copyright: 
+preferred-width: 924
+preferred-height: 500
+author-image: MassAndSpring/PacoEsquembre2011.png
+source: MassAndSpring.ejss
+main-script: 
+main-simulation: MassAndSpring_Simulation.xhtml
+available-languages: 
+html-description: MassAndSpring_Intro_2.html
+html-description: MassAndSpring_Intro_1.html
+html-contents: MassAndSpring_Contents.xhtml
+html-main: MassAndSpring.xhtml
+page-title: Introduction
+page-index: MassAndSpring_Intro_1.html
+page-title: Activities
+page-index: MassAndSpring_Intro_2.html
+page-title: Mass and Spring
+page-index: MassAndSpring_Simulation.xhtml
+resource: MassAndSpring/MassAndSpring.gif
+resource: MassAndSpring/MassAndSpring.png
+resource: MassAndSpring/MassAndSpringComplete.png
+resource: MassAndSpring/PacoEsquembre2011.png
+resource: MassAndSpring/WC_logo.png
