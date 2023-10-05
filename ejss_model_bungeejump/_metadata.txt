@@ -1,0 +1,27 @@
+generated-with: Easy Java/Javascript Simulations, version 6.0, build 191124. Visit http://www.um.es/fem/Ejs
+title: Bungee Jump
+logo-image: BungeeJump/BungeeIcon.png
+author: Michael R. Gallis
+copyright: Michael R. Gallis
+preferred-width: 800
+preferred-height: 600
+author-image: mrg_icon.png
+source: BungeeJumpEnergy.ejss
+main-script: 
+main-simulation: BungeeJumpEnergy_Simulation.xhtml
+available-languages: 
+html-contents: BungeeJumpEnergy_Contents.xhtml
+html-main: BungeeJumpEnergy.xhtml
+page-title: Bungee Jump
+page-index: BungeeJumpEnergy_Simulation.xhtml
+resource: BungeeJump/clouds3.jpg
+resource: BungeeJump/Juwenalia_Bungee_jumping_2008_02.jpg
+resource: BungeeJump/Bungee_fig_2.png
+resource: BungeeJump/Bungee_fig_1.jpg
+resource: BungeeJump/BungeeIcon.png
+resource: BungeeJump/BungeeJumping2014_Intro.xhtml
+resource: BungeeJump/crash_dummy2ud.png
+resource: GallisBungee/cross.png
+resource: mrg_icon.png
+resource: BungeeJump/cross.png
+resource: BungeeJump/girder2.png

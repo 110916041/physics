@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+<ModulePrefs
+title="BungeeJumpEnergy"
+author="Michael R. Gallis"
+description="mrg3@psu.edu"
+screenshot="./BungeeJump/BungeeIcon.png"
+thumbnail="./BungeeJump/BungeeIcon.png">
+<Require feature="opensocial-0.9"/>
+<Require feature="dynamic-height"/>
+</ModulePrefs>
+<Content type="html" href="BungeeJumpEnergy_Simulation.xhtml"/>
+</Module>
